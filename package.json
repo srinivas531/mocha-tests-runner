@@ -1,0 +1,26 @@
+{
+  "name": "nformatter",
+  "version": "1.0.0",
+  "description": "basic npm module with testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinivas531/number-formatter.git"
+  },
+  "author": "srinivas.kanuparthi <kanuparthisrinivas96@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srinivas531/number-formatter/issues"
+  },
+  "homepage": "https://github.com/srinivas531/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
